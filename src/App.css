@@ -1,7 +1,45 @@
 .flashcard {
-    width: 30%;
+    display: flex;
+    width: 40%;
     height: 400px;
     border: 1px solid;
+    justify-content: center;
+    align-items: center;
+    margin: 5% auto auto;
+    font-size: 1.5rem;
+}
+
+.cardSet {
     text-align: center;
-    margin: 10% auto auto;
+    margin: 5% auto;
+}
+
+.nextButton {
+    display: flex;
+    justify-content: center;
+    margin: 2% auto;
+    width: 10%;
+}
+
+/* CSS */
+.button-23 {
+    background-color: #ffffff;
+    border: 1px solid #222222;
+    border-radius: 8px;
+    color: #222222;
+    cursor: pointer;
+    display: flex;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 2% auto;
+    padding: 13px 23px;
+    text-align: center;
+    width: auto;
+}
+
+.button-23:active {
+    background-color: #f7f7f7;
+    border-color: #000000;
+    transform: scale(0.96);
 }
