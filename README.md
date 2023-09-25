@@ -36,8 +36,8 @@ GIF created with LICEcap
 
 ## Notes
 
--   Learning how to use states was challenging at first
--   Figuring out how to make the cards switch from question to answer was challening at first
+-   Learning how to use states was challenging
+-   Figuring out how to make the cards switch from question to answer took the longest
 
 ## License
 
