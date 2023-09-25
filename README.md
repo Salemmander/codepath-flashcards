@@ -20,11 +20,6 @@ The following **optional** features are implemented:
 
 -   [ ] Cards contains images in addition to or in place of text
 -   [ ] Cards have different visual styles such as color based on their category
-    -   [ ] _visual style implemented_
-
-The following **additional** features are implemented:
-
--   [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
