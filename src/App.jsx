@@ -15,7 +15,6 @@ function App() {
         { q: "22 / 7", a: "3.14" },
         { q: "94 * 65", a: "6,110" },
         { q: "100 / 0", a: "Undefined" },
-        { q: "649 - 40.532", a: "608.468" },
     ];
 
     const randomCard = () => {
@@ -24,10 +23,11 @@ function App() {
 
     return (
         <div>
-            <h1 className='cardSet'>Elementary Math</h1>
-            <h3 className='cardSet'>
+            <h1 className='title'>Elementary Math</h1>
+            <h3 className='title'>
                 Addition, subtraction, multiplication, and division
             </h3>
+            <h4 className='title'>Number of cards: {cards.length}</h4>
             <Flashcard card={cards[card]} />
             <button className='button-23' onClick={randomCard}>
                 New Card
