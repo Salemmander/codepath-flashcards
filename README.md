@@ -76,24 +76,19 @@ The following **optional** features are implemented:
 
 -   [ ] Cards contains images in addition to or in place of text
 -   [ ] Cards have different visual styles such as color based on their category
-    -   [ ] _visual style implemented_
-
-The following **additional** features are implemented:
-
--   [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/fxwmAaA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/fxwmAaA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap
 
 ## Notes
 
--   Learning how to use states was challenging at first
--   Figuring out how to make the cards switch from question to answer was challening at first
+-   Learning how to use states was challenging
+-   Figuring out how to make the cards switch from question to answer took the longest
 
 ## License
 
