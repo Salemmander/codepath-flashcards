@@ -9,7 +9,7 @@ const Flashcard = (props) => {
     };
 
     return (
-        <div onClick={toggleAnswer} className='flashcard'>
+        <div onClick={toggleAnswer} className={"flashcard"}>
             <h1>{showAnswer ? props.card["a"] : props.card["q"]}</h1>
         </div>
     );

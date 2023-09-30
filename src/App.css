@@ -2,12 +2,26 @@
     display: flex;
     width: 40%;
     height: 400px;
-    /* border: 1px solid; */
     justify-content: center;
     align-items: center;
-    margin: 5% auto auto;
+    margin: 3% auto auto;
     font-size: 1.5rem;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.correct {
+    background-color: green;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.text-box {
+    display: flex;
+    justify-content: center;
+    margin: 2% auto 0;
 }
 
 .title {
@@ -22,7 +36,6 @@
     width: 10%;
 }
 
-/* CSS */
 .button-23 {
     background-color: #ffffff;
     border: 1px solid #222222;
@@ -33,7 +46,7 @@
     font-size: 16px;
     font-weight: 600;
     line-height: 20px;
-    margin: 2% auto;
+    margin: 2% 2% 0;
     padding: 13px 23px;
     text-align: center;
     width: auto;
